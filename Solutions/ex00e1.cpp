@@ -9,6 +9,6 @@ int main(){
     mm += d;
     hh += mm/60; mm %= 60;
     hh %= 24;
-    printf("%02d %02d", hh?:0, mm);
+    printf("%02d %02d", hh, mm);
     return 0;
 }
