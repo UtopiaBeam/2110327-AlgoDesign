@@ -1,3 +1,6 @@
+#
+# AUTHOR: Natchapol Srisang (UtopiaBeam)
+#
 from collections import Counter
 
 n, dc = int(input()), Counter(list(map(int, input().split())))

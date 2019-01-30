@@ -1,3 +1,6 @@
+#
+# AUTHOR: Natchapol Srisang
+#
 from sys import stdin as kb
 from collections import Counter
 

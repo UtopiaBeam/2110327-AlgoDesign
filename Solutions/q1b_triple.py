@@ -1,3 +1,6 @@
+#
+# AUTHOR: Natchapol Srisang (UtopiaBeam)
+#
 n, m = map(int, input().split())
 ls = list(map(int, input().split()))
 dc, ans = {}, [False]*m

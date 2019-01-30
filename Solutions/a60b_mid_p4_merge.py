@@ -1,3 +1,6 @@
+#
+# AUTHOR: Natchapol Srisang (UtopiaBeam)
+#
 n, k = map(int, input().split())
 
 

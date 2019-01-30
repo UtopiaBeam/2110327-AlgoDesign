@@ -1,4 +1,7 @@
-// Golomb Sequence
+/* 
+ * AUTHOR: Natchapol Srisang (UtopiaBeam)
+ * KEYWORD: Golomb Sequence
+ */
 #include <cstdio>
 #include <vector>
 #define L long long

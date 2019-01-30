@@ -1,4 +1,6 @@
-// AUTHOR: Rodchananat Khunakornophat
+/*
+ * AUTHOR: Rodchananat Khunakornophat
+ */
 #include <cstdio>
 int isCel[1000];
 

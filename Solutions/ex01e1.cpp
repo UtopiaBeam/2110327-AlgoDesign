@@ -1,3 +1,6 @@
+/*
+ * AUTHOR: Natchapol Srisang (UtopiaBeam)
+ */
 #include <iostream>
 #include <unordered_map>
 #define N (int)1e5

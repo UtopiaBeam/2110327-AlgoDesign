@@ -1,4 +1,6 @@
-// AUTHOR: Rodchananat Khunakornophat
+/* 
+ * AUTHOR: Rodchananat Khunakornophat
+ */
 #include <cstdio>
 #define LL long long
 int n, q, a[1000];

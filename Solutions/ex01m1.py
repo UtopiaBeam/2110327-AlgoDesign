@@ -1,3 +1,8 @@
+#
+# AUTHOR: Natchapol Srisang (UtopiaBeam)
+#
+
+
 def f(sz, sx, sy, x, y):
     mx, my = sx - 1 + sz//2, sy - 1 + sz//2
     print(list(range(4))[(x > mx) + 2*(y > my)], mx, my)

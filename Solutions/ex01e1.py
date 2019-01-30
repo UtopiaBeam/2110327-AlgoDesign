@@ -1,3 +1,6 @@
+#
+# AUTHOR: Natchapol Srisang (UtopiaBeam)
+#
 from sys import stdin as kb
 
 kb.readline()

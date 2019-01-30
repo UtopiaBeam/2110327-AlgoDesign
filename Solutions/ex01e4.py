@@ -1,3 +1,8 @@
+#
+# AUTHOR: Natchapol Srisang (UtopiaBeam)
+#
+
+
 def pwm(x, n, k):
     if n == 0:
         return 1

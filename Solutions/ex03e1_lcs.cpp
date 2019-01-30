@@ -1,3 +1,6 @@
+/*
+ * AUTHOR: Natchapol Srisang (UtopiaBeam)
+ */
 #include <iostream>
 #include <algorithm>
 #define N 500

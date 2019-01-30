@@ -1,4 +1,6 @@
-// AUTHOR: Rodchananat Khunakornophat
+/* 
+ * AUTHOR: Rodchananat Khunakornophat
+ */
 #include <queue>
 #include <vector>
 #include <iostream>
@@ -8,17 +10,15 @@ typedef pair<int, int> pii;
 
 priority_queue<pii> pq;
 
-
-
 int main(){
     int n, m;
     cin >> n >> m;
     vector<int> t(n); // initial size = n
-    for (int i=0; i<n; i++){
+    for (int i = 0; i < n; i++) {
         cin >> t[i];
         pq.push(pii{0, i});
     }  
-    while (m--){
+    while (m--) {
         pii next = pq.top();
         pq.pop();
         cout << -next.first << '\n';

@@ -1,3 +1,6 @@
+/*
+ * AUTHOR: Natchapol Srisang (UtopiaBeam)
+ */
 #include <cstdio>
 #include <algorithm>
 #define N 100

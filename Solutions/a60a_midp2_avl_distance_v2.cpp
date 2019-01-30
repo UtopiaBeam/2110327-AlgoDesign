@@ -1,8 +1,13 @@
-// AUTHOR: Rodchananat Khunakornophat
+/*
+ * AUTHOR: Rodchananat Khunakornophat
+ */
 #include <bits/stdc++.h>
+#define N (int)5e4
 using namespace std;
-vector<int> adj[50001];
-int cnt[50001][500], ans = 0, n, k, p, q;
+
+vector<int> adj[N+2];
+int cnt[N+2][500], ans = 0, n, k, p, q;
+
 void recur(int n) {
     cnt[n][0] = 1;
     vector<int> &v = adj[n];

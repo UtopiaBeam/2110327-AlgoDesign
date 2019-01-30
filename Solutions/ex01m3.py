@@ -1,3 +1,6 @@
+#
+# AUTHOR: Natchapol Srisang (UtopiaBeam)
+#
 from sys import stdin as kb
 n, _ = map(int, kb.readline().split())
 ls = list(map(int, kb.readline().split()))

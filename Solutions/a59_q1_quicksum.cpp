@@ -1,3 +1,6 @@
+/*
+ * AUTHOR: Natchapol Srisang (UtopiaBeam)
+ */
 #include <cstdio>
 #define N 1000
 

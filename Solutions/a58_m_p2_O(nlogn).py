@@ -1,3 +1,6 @@
+#
+# AUTHOR: Natchapol Srisang (UtopiaBeam)
+#
 from collections import defaultdict
 dc = defaultdict(lambda: float('inf'))
 

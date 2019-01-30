@@ -1,3 +1,6 @@
+/*
+ * AUTHOR: Natchapol Srisang
+ */
 #include <cstdio>
 #define N (int)1e5
 #define L long long

@@ -1,3 +1,6 @@
+#
+# AUTHOR: Natchapol Srisang (UtopiaBeam)
+#
 _, ls = input(), list(map(int, input().split()))
 if all(x < 0 for x in ls):
     print(max(ls))

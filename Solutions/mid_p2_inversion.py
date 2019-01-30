@@ -1,3 +1,7 @@
+#
+# AUTHOR: Natchapol Srisang (UtopiaBeam)
+#
+
 
 def mrg(l, r):
     tmp = []

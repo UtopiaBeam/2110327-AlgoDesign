@@ -1,4 +1,6 @@
-// AUTHOR: Rodchananat Khunakornophat
+/* 
+ * AUTHOR: Rodchananat Khunakornophat
+ */
 #include <algorithm>
 #include <cstdio>
 #include <stack>
@@ -9,8 +11,6 @@ vector<pair<int, int>> points;
 stack<int> st;
 
 int main() {
-    // freopen("test.in", "r", stdin);
-    // freopen("test.out", "w", stdout);
     int n;
     pair<int, int> thisPoint;
     scanf("%d", &n);

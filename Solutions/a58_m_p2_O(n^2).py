@@ -1,3 +1,6 @@
+#
+# AUTHOR: Natchapol Srisang (UtopiaBeam)
+#
 n = int(input())
 ls = list(map(int, input().split()))
 dp = [1] * n

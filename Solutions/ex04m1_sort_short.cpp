@@ -1,4 +1,6 @@
-// AUTHOR: Rodchananat Khunakornophat
+/* 
+ * AUTHOR: Rodchananat Khunakornophat
+ */
 #include <algorithm>
 #include <cstdio>
 using namespace std;

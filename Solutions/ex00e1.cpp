@@ -1,7 +1,8 @@
-// AUTHOR: Rodchananat Khunakornophat
+/*
+ * AUTHOR: Rodchananat Khunakornophat
+ */
 #include <cstdio>
 using namespace std;
-
 
 int main(){
     int hh, mm, d;

@@ -1,5 +1,11 @@
+#
 # AUTHOR: Rodchananat Khunakornophat
+#
+
+
 def x(): return [*map(int, input().split())]
+
+
 r, c, k = x()
 a = [[0] * (c+1)] + [[0]+x() for i in range(r)]
 for i in range(1, r+1):
