@@ -18,6 +18,8 @@ For those who want to contribute to this repository, please add author's name in
 # KEYWORD: (Keywords related to the problem, if any)
 #
 ```
+### For other languages, please also follow the patterns.
+
 Finally, thank you for your contribution.
 
 ### Please do not copy the codes. You should take these as the examples and write your own codes.
