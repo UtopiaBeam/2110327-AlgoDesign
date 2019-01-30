@@ -22,6 +22,8 @@ For those who want to contribute to this repository, please add author's name in
 
 Finally, thank you for your contribution.
 
+# Remark
+
 ### Please do not copy the codes. You should take these as the examples and write your own codes.
 
-### Blogs for algorithm coming soon...
+Blogs for algorithm coming soon...
