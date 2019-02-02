@@ -3,7 +3,7 @@
 Sample solutions for CU 2110327 Algorithm Design course (Academic year 2018).
 You may ask [me](https://www.facebook.com/natchapolsrisang) any questions you have or report bugs if any.
 
-![login](Screenshot/login.png)
+<img src='Screenshot/login.png' width='300px' />
 
 _site: [nattee.net/grader](https://nattee.net/grader)_
 
