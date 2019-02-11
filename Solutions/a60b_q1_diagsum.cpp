@@ -4,10 +4,6 @@
  */
 
 #include <bits/stdc++.h>
-//~ #include <iostream>
-//~ #include <vector>
-//~ #include <map>
-//~ #include <iterator>
 #define input() (*std::istream_iterator<int>(cin))
 #define len(x) (x).size()
 #define all(x) (x).begin(), (x).end()
@@ -47,7 +43,6 @@ int main(){
 	int mx = -1e9;
 	for (auto pii: dp){
 		mx = std::max(mx, maximum_sum_subarray(all(pii.second)));
-		//~ cout << k << ":\t" << maximum_sum_subarray(all(v)) << '\t' << v << '\n';
 	}
 	std::cout << mx;
 }

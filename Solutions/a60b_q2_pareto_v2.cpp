@@ -4,10 +4,6 @@
  */
 
 #include <bits/stdc++.h>
-//~ #include <iostream>
-//~ #include <vector>
-//~ #include <map>
-//~ #include <iterator>
 #define input() (*std::istream_iterator<int>(cin))
 #define len(x) (x).size()
 #define all(x) (x).begin(), (x).end()
@@ -45,7 +41,6 @@ int main(){
 			stk.pop_back();
 		}
 		stk.push_back(r);
-		//~ cout << l << ' ' << r << ' ' << stk << '\n';
 	}
 	cout << stk.size();
 	

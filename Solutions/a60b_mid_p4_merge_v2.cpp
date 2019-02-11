@@ -70,6 +70,5 @@ int main() {
   } else {
     for (int i : ans) std::cout << i << ' ';
     std::cout << '\n';
-    // std::cerr << checkmerge(ans);
   }
 }
