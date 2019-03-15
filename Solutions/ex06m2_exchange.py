@@ -1,3 +1,8 @@
+#
+# AUTHOR: Natchapol Srisang (UtopiaBeam)
+# KEYWORD: Floyd-Warshall
+#
+
 import numpy as np
 
 
