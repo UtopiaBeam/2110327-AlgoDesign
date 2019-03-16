@@ -1,6 +1,5 @@
 #
 # AUTHOR: Natchapol Srisang (UtopiaBeam)
-# KEYWORD: Floyd-Warshall
 #
 
 n, l = map(int, input().split())
