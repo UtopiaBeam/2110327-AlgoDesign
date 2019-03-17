@@ -1,3 +1,7 @@
+#
+# AUTHOR: Natchapol Srisang (UtopiaBeam)
+#
+
 from itertools import accumulate
 
 m, n = map(int, input().split())
